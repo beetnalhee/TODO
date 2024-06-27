@@ -1,0 +1,47 @@
+.TodoItem {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.TodoItem:nth-child(even) {
+    background: #daddde;
+}
+
+.TodoItem .checkbox {
+    cursor: pointer;
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
+.TodoItem .checkbox svg {
+    font-size: 1.5rem;
+}
+
+.TodoItem .checkbox .text {
+    margin-left: 0.5rem;
+    flex: 1;
+}
+
+.TodoItem .checked svg {
+    color: #22b8cf;
+    
+}
+
+.TodoItem .checked .text {
+    color: #adb5bd;
+    text-decoration: line-through;
+}
+
+.TodoItem .remove {
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+    color: #ff6b6b;
+    cursor: pointer;
+}
+
+.TodoItem .remove:hover {
+    color: #ff0087;
+}
