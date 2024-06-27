@@ -16,7 +16,7 @@ Things to do 리스트 </br>
 > * 할일 체크
 > * 할일 삭제
 
- [코드보기](https://github.com/beetnalhee/Java_Socket/blob/main/project_chat/src/com/ezen/network/chat/server/ChatServer.java)
+ [코드보기](https://github.com/beetnalhee/TODO/blob/main/src/App.js)
 </br>
 
 
