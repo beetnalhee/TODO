@@ -5,7 +5,7 @@ Things to do 리스트 </br>
 
 # 📚 개발환경 및 사용기술
 >  * 개발기간 : 2024.04.26 ~ 04.28. (3일)
->  * Language : Java
+>  * Language : JavaScript
 >  * Skill : React
 
 </br>
